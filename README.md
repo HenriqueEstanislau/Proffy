@@ -3,17 +3,13 @@ This is a project developed during the **Next Level Week #2** created by [Rocket
 
 ## How Install
 
-Aplicação feita em Node.js e Typescript que utiliza o SQLite como banco de dados. Ele é indispensável para a aplicação, portanto deve ser o primeiro a entrar em funcionamento.
 ```
-# Navegue até a pasta server
+# go to the folder server
 cd server
 
-# Para instalar todas as dependências do projeto
+# Install the dependencies
 npm install
 
-# Para criar as tabelas no banco de dados
-npm run knex:migrate
-
-# Para rodar a aplicação
+# To start
 npm start
 ```
