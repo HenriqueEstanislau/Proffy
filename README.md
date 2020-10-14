@@ -15,7 +15,7 @@ cd nlw
 npm install
 
 # To start
-npm start
+npm run dev
 
 # The server start in door:5500
 # Access http://localhost:5500 
