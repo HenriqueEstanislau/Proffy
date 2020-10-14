@@ -5,7 +5,7 @@ This is a project developed during the **Next Level Week #2** created by [Rocket
 
 ```
 # go to the folder server
-cd server
+cd web
 
 # Install the dependencies
 npm install
