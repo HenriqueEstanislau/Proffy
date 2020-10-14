@@ -4,12 +4,29 @@ This is a project developed during the **Next Level Week #2** created by [Rocket
 ## How Install
 
 ```
+# clone the project
+git clone https://github.com/HenriqueEstanislau/Proffy
+
 # go to the folder server
-cd src
+cd nlw
 
 # Install the dependencies
 npm install
 
 # To start
 npm start
+
+# The server start in door:5500
+# Access http://localhost:5500 
 ```
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- NodeJs
+- Nodemon
+- Nunjucks
+- SQLite
+- Sqlite-async
+- Express
