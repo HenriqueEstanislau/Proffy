@@ -7,7 +7,7 @@ This is a project developed during the **Next Level Week #2** created by [Rocket
 # clone the project
 git clone https://github.com/HenriqueEstanislau/Proffy
 
-# go to the folder server
+# go to the folder nlw
 cd nlw
 
 # Install the dependencies
@@ -20,7 +20,7 @@ npm start
 # Access http://localhost:5500 
 ```
 
-## Technologies
+## Features :hammer_and_wrench:
 - HTML
 - CSS
 - JavaScript
