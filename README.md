@@ -1,5 +1,6 @@
 # Proffy
 This is a project developed during the **Next Level Week #2** created by [Rocketseat](https://rocketseat.com.br/). Proffy is a web and mobile application designed to connect students and teachers around the world. In Proffy teachers can register classes, define the course, schedule and cost. And the students can search for classes.
+![proffy](https://user-images.githubusercontent.com/65318224/103383913-415b7600-4ad3-11eb-9cb0-3f7bb68e5b56.gif)
 
 ## How Install
 You need to have it installed on your computer: [Git](https://git-scm.com/) and [Node](https://nodejs.org/en/).
